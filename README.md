@@ -1,8 +1,7 @@
 # Lagos Flood Risk Analysis
 
 ## Project Overview
-Riverine and coastal flood risk mapping for Lagos, Nigeria, 
-built as part of a catastrophe risk modelling portfolio project.
+Riverine and coastal flood risk mapping for Lagos, Nigeria.
 
 ## Key Findings
 - Lagos faces significantly higher riverine flood risk than 
